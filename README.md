@@ -26,7 +26,6 @@ Make sure you have the following installed before starting:
 2. Required Accounts
   - MongoDB Atlas – for database
   - OpenAI Platform – for AI features
----
 
 ## 📄 Setup
 

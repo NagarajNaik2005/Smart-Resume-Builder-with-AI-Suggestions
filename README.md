@@ -29,7 +29,7 @@ Make sure you have the following installed before starting:
 
 ## 📄 Setup
 
-# 🔑 Step 1: Get Your API Keys
+### 🔑 Step 1: Get Your API Keys
 
 I. 🟢 MongoDB Connection String
 

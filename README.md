@@ -149,11 +149,11 @@ cd frontend && npm start
   - ✅ Always use environment variables for sensitive data
 
 ### 📸 Preview
-(./Snapshot/Screenshot 2025-10-27 094245)
-(./Snapshot/Preview)
-(./Snapshot/Printing-Resume)
-(./Snapshot/Notifications-after-resume-saved)
-(./Snapshot/AI Suggestion for Summary)
+![](./Snapshot/Screenshot-2025-10-27-094245)
+![](./Snapshot/Preview)
+![](./Snapshot/Printing-Resume)
+![](./Snapshot/Notifications-after-resume-saved)
+![](./Snapshot/AI-Suggestion-for-Summary)
 
 ### 🧑‍💻 Author
 Nagaraj Naik

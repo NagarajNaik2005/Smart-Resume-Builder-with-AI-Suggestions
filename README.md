@@ -167,7 +167,7 @@ cd frontend && npm start
 ### 🧑‍💻 Author
 Nagaraj Naik
 💼 Engineering Student | 💡 Aspiring Full Stack Developer
-📧 [Email](mrnagarajnaik2005@gmail.com)
+📧 [Email](mrnagarajnaik2005@gmail.com) |
     [LinkedIn](https://www.linkedin.com/in/nagaraj-naik-2995852ba)
    
 ### 📝 License

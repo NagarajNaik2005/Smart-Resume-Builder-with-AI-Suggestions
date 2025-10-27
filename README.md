@@ -148,12 +148,21 @@ cd frontend && npm start
 
   - ✅ Always use environment variables for sensitive data
 
-### 📸 Preview
-![Home Page](./Snapshot/Screenshot-2025-10-27-094245.png)
-![Preview Resume](./Snapshot/Preview.png)
-![Printing Resume](./Snapshot/Printing_Resume.png)
-![Notification After Save](./Snapshot/Notifications_after_resume_saved.png)
-![AI Suggestion for Summary](./Snapshot/AI_Suggestion_for_Summary.png)
+<h3 align="center">📸 Preview</h3>
+
+<p align="center">
+  <img src="./Snapshot/Screenshot-2025-10-27-094245.png" width="45%" />
+  <img src="./Snapshot/Preview.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./Snapshot/Printing-Resume.png" width="45%" />
+  <img src="./Snapshot/Notifications-after-resume-saved.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./Snapshot/AI-Suggestion-for-Summary.png" width="45%" />
+</p>
 
 ### 🧑‍💻 Author
 Nagaraj Naik

@@ -1,4 +1,4 @@
-# 🧠 Smart Resume Builder
+# 🧠 Smart Resume Builder with AI Suggestions
 
 A **full-stack AI-powered Resume Builder** that helps users create professional resumes with **OpenAI integration** for smart suggestions and **MongoDB Atlas** for secure data storage.
 

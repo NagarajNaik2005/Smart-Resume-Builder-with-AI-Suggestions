@@ -54,14 +54,14 @@ mongodb+srv://username:<password>@cluster0.xxxxx.mongodb.net/?retryWrites=true&w
 
 4. Copy the key (starts with sk-) and store it safely
 
-## 📦 Step 2: Download the Project
+### 📦 Step 2: Download the Project
 1. Clone this repository
 git clone https://github.com/nagarajNaik2005/Smart-Resume-Builder-with-AI-Suggestions.git
 
 2. Go to project folder
 cd Smart-Resume-Builder-with-AI-Suggestions
 
-## 🖥️ Step 3: Backend Setup:
+### 🖥️ Step 3: Backend Setup:
 ```bash
 cd backend
 npm install
@@ -81,7 +81,7 @@ npm install
   Server running on port 5000
   MongoDB Connected
   ```
-## 🌐 Step 4: Frontend Setup
+### 🌐 Step 4: Frontend Setup
 ```bash
   cd frontend
   npm install
@@ -90,7 +90,7 @@ npm install
 - Your app should open automatically at:
   👉 <http://localhost:3000>
   
-## 🧩 Step 5: Verify Installation
+### 🧩 Step 5: Verify Installation
   | Feature            | Expected Behavior            |
   | ------------------ | ---------------------------- |
   | Fill personal info | Saves locally                |
@@ -98,7 +98,7 @@ npm install
   | Save to Database   | Stores data in MongoDB       |
   | Download PDF       | Opens print/download dialog  |
 
-## 🛠️ Troubleshooting
+### 🛠️ Troubleshooting
 #### 1. 🔵 OpenAI Issues
 
   - Invalid API Key: Check .env file
@@ -114,13 +114,13 @@ npm install
 
   - IP not whitelisted: → Go to MongoDB Atlas → Network Access → Add IP (0.0.0.0/0)
 
-## 💰 Cost Information
+### 💰 Cost Information
 | Service       | Plan                                | Notes                                    |
 | ------------- | ----------------------------------- | ---------------------------------------- |
 | MongoDB Atlas | FREE Tier                           | 512MB storage                            |
 | OpenAI        | FREE Tier ($5 credits for 3 months) | Then pay-as-you-go (~$0.002 per request) |
 
-## 🚀 Quick Start Commands
+### 🚀 Quick Start Commands
 ```bash
 # Terminal 1 - Backend
 cd backend && npm run dev
@@ -128,7 +128,7 @@ cd backend && npm run dev
 # Terminal 2 - Frontend
 cd frontend && npm start
 ```
-## ✅ Success Checklist
+### ✅ Success Checklist
    Backend running on http://localhost:5000
 
   - Frontend running on http://localhost:3000
@@ -141,23 +141,23 @@ cd frontend && npm start
 
   - No console errors
 
-## ⚠️ Security Reminder
+### ⚠️ Security Reminder
   - 🚫 Never share your .env file
 
   - 🚫 Never commit API keys to GitHub
 
   - ✅ Always use environment variables for sensitive data
 
-## 📸 Preview
+### 📸 Preview
 
 
-## 🧑‍💻 Author
+### 🧑‍💻 Author
 Nagaraj Naik
 💼 Engineering Student | 💡 Aspiring Full Stack Developer
 📧 [Email](mrnagarajnaik2005@gmail.com)
     [LinkedIn](https://www.linkedin.com/in/nagaraj-naik-2995852ba)
    
-## 📝 License
+### 📝 License
  All Rights reserved.
 
  ---

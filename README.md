@@ -149,7 +149,11 @@ cd frontend && npm start
   - ✅ Always use environment variables for sensitive data
 
 ### 📸 Preview
-https://github.com/NagarajNaik2005/Smart-Resume-Builder-with-AI-Suggestions/blob/main/Snapshot/AI%20Suggestion%20for%20Summary.png
+(./Snapshot/Screenshot 2025-10-27 094245)
+(./Snapshot/Preview)
+(./Snapshot/Printing-Resume)
+(./Snapshot/Notifications-after-resume-saved)
+(./Snapshot/AI Suggestion for Summary)
 
 ### 🧑‍💻 Author
 Nagaraj Naik

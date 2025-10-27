@@ -152,7 +152,7 @@ cd frontend && npm start
 
 <p align="center">
   <img src="./Snapshot/Screenshot-2025-10-27-094245.png" width="45%" />
-  <img src="./Snapshot/Preview.png" width="45%" />
+  <img src="./Snapshot/Pre-view.png" width="45%" />
 </p>
 
 <p align="center">

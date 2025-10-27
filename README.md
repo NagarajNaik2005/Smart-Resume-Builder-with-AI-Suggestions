@@ -151,9 +151,9 @@ cd frontend && npm start
 ### 📸 Preview
 ![Home Page](./Snapshot/Screenshot-2025-10-27-094245.png)
 ![Preview Resume](./Snapshot/Preview.png)
-![Printing Resume](./Snapshot/Printing-Resume.png)
-![Notification After Save](./Snapshot/Notifications-after-resume-saved.png)
-![AI Suggestion for Summary](./Snapshot/AI-Suggestion-for-Summary.png)
+![Printing Resume](./Snapshot/Printing_Resume.png)
+![Notification After Save](./Snapshot/Notifications_after_resume_saved.png)
+![AI Suggestion for Summary](./Snapshot/AI_Suggestion_for_Summary.png)
 
 ### 🧑‍💻 Author
 Nagaraj Naik
